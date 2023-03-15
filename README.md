@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamsudeen</h1>
-<h3 align="center">A mobile developer based in Lagos, Nigeria</h3>
+<h3 align="center">A mobile developer based in Lagos, Nigeria working primarily with Flutter 💙 and Android 💚</h3>
 
 - 🌱 I’m currently learning **DSAs and Network Engingeering**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adedokunshamsudeen@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1Bv0jAT1x2e5atRFS-SxFE_Uv6JhTOV4aA2DIS6GVf-I/edit?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/guRSV](shorturl.at/guRSV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
