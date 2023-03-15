@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adedokunshamsudeen@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/guRSV](shorturl.at/guRSV)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1Bv0jAT1x2e5atRFS-SxFE_Uv6JhTOV4aA2DIS6GVf-I/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
