@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shamsudeen</h1>
 <h3 align="center">A mobile developer based in Lagos, Nigeria</h3>
 
+- 🌱 I’m currently learning **DSAs and Network Engingeering**
+
+- 📝 I regularly write articles on [https://medium.com/@shams-ad](https://medium.com/@shams-ad)
+
 - 💬 Ask me about **Flutter and Android development**
 
 - 📫 How to reach me **adedokunshamsudeen@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Bv0jAT1x2e5atRFS-SxFE_Uv6JhTOV4aA2DIS6GVf-I/edit?usp=sharing](https://docs.google.com/document/d/1Bv0jAT1x2e5atRFS-SxFE_Uv6JhTOV4aA2DIS6GVf-I/edit?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Know about my experiences [shorturl.at/guRSV](shorturl.at/guRSV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
