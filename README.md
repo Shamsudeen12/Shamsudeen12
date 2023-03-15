@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shamsudeen <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </h1>
-<h3 align="center">A mobile developer based in Lagos, Nigeria working primarily with Flutter 💙 and Android 💚</h3>
+<h1 align="center">Hi 👋, I'm Shamsudeen 👨🏾‍💻</h1>
+<h3 align="center">A mobile developer based in Lagos, Nigeria working primarily with Flutter 💙  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>and Android 💚</h3>
 
 - 🌱 I’m currently learning **DSAs and Network Engingeering**
 
